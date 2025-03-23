@@ -15,8 +15,6 @@ public:
                 maxi=max(maxi,lower*(end-start));
                 end--;
             }
-         
-           cout<<maxi<<endl;
 
         }
         return maxi;
