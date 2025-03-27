@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/om2438164/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0792-binary-search](https://github.com/om2438164/Leetcode/tree/master/0792-binary-search) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/om2438164/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/om2438164/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 ## Binary Search
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/om2438164/Leetcode/tree/master/0015-3sum) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/om2438164/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 ## Greedy
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/om2438164/Leetcode/tree/master/0496-next-greater-element-i) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/om2438164/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 ## Monotonic Stack
 |  |
 | ------- |
