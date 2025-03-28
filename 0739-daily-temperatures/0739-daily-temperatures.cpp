@@ -1,6 +1,22 @@
 class Solution {
 public:
     vector<int> dailyTemperatures(vector<int>& temperatures) {
+        // brute force-----------
+        // vector<int>ans(temperatures.size(),0);
+        // for(int i=0;i<temperatures.size()-1;i++){
+        //     int count=0;
+        //     bool check=false;
+        //     for(int j=i+1;j<temperatures.size() && check==false;j++){
+        //         if(temperatures[j]>temperatures[i]){
+        //             ans[i]=count+1;
+        //             check=true;
+        //         }
+        //         count++;
+        //     }
+        // }
+        // return ans;
+
+        // using stack -----------
         int n = temperatures.size();
         vector<int> ans(n, 0);
         stack<vector<int>> st; 
