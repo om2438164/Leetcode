@@ -19,18 +19,44 @@ while(j<arr.size()){
 // for variable size window 
 
 
-int left = 0, right = 0;
+int i = 0, j = 0;
 
-while (right < nums.size()) {
+while (j < nums.size()) {
     // expand the window
-    window.addLast(nums[right]);
-    right++;
+    window.addLast(nums[j]);
+    j++;
     
     while (window needs shrink) {
         // shrink the window
-        window.removeFirst(nums[left]);
-        left++;
+        window.removeFirst(nums[i]);
+        i++;
     }
+}
+
+
+
+
+// another template from leetcode for variable size s.w 
+// imp
+
+int fn(vector<int>& arr) {
+    int i = 0, j=0, ans = 0, curr = 0;
+
+    while (j < arr.size()) {
+        // do logic here to add arr[right] to curr
+        // expand the window 
+
+        while (WINDOW_CONDITION_BROKEN) {
+            // remove arr[left] from curr or 
+            // shrink the window
+            i++;
+        }
+
+        // update ans
+        j++;
+    }
+
+    return ans;
 }
 
 // revise problems mentioned in notebook 
