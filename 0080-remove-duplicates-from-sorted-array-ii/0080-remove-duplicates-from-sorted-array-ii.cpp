@@ -1,5 +1,7 @@
 class Solution {
 public:
+
+// not a inplace sort
     int removeDuplicates(vector<int>& nums) {
         map<int,int>freq;
         for(auto it:nums) freq[it]++;
