@@ -9,14 +9,14 @@ public:
             // expand the window
             if (!map.count(s[j])) {
                 map[s[j]] = true;
-                cout<<s[j]<<"\n";
+                // cout<<s[j]<<"\n";
                 ans=max(ans,j-i+1);
                 j++;
             } else {
                 while (map.count(s[j])) {
-                    // shrink the window
-                    cout<<"erase";
-                    cout<<s[i]<<"/n";
+                    // // shrink the window
+                    // cout<<"erase";
+                    // cout<<s[i]<<"/n";
                     map.erase(s[i]);
                     i++;
                 }
