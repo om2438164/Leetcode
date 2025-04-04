@@ -5,7 +5,6 @@ public:
         
         for(int i=0;i<s.size()-1;i++){
             ans= ans + abs(s[i]-s[i+1]);
-            cout<<ans<<endl;
         }
         return ans;
     }
