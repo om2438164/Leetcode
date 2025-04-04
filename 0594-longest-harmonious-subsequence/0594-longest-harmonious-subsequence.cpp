@@ -1,16 +1,25 @@
 class Solution {
 public:
     int findLHS(vector<int>& nums) {
-        
-        int ans=0;
-        sort(nums.begin(),nums.end());
-        for(int i=0;i<nums.size()-1;i++){
-            for(int j=i+1;j<nums.size();j++){
-                if(abs(nums[i]-nums[j])==1){
-                    ans=max(ans,j-i+1);
+        sort(nums.begin(), nums.end());
+        int i = 0;
+        int left = 0;
+        int right = 0;
+        int ans = 0;
+        int maxAns = 0;
+        //using sliding window
+        while(right < nums.size()){
+            if(nums[right]-nums[left] == 1){
+                ans = right-left+1;
+                maxAns = max(maxAns, ans);
+            }else if(nums[right]-nums[left] > 1){
+                while(nums[right]-nums[left] > 1){
+                    left++;
                 }
             }
+            right++;
         }
-        return ans;
+
+        return maxAns;
     }
 };
