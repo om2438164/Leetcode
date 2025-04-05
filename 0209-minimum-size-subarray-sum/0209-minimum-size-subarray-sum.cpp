@@ -15,7 +15,6 @@ public:
         }
 
         // update ans
-        cout<<sum<<endl;
         
         j++;
     }
