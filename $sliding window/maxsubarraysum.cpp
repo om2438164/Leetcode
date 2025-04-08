@@ -3,6 +3,11 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+
+// we can optimized this by using kadan's algorithm 
+// check notes and template folder to refer kadan's algorithm 
+
+
 int getsum(vector<int>&arr,int k){
     int i=0,j=0;
     int sum=0,maxi=INT_MIN;
