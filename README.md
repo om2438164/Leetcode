@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/om2438164/Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/om2438164/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0567-permutation-in-string](https://github.com/om2438164/Leetcode/tree/master/0567-permutation-in-string) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/om2438164/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2481-strictly-palindromic-number](https://github.com/om2438164/Leetcode/tree/master/2481-strictly-palindromic-number) |
 ## String
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/om2438164/Leetcode/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/om2438164/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/om2438164/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/om2438164/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/om2438164/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 ## Binary Search
 |  |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/om2438164/Leetcode/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/om2438164/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/om2438164/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/om2438164/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/om2438164/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 ## Greedy
 |  |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/om2438164/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/om2438164/Leetcode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/om2438164/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/om2438164/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/om2438164/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 ## Monotonic Stack
 |  |
