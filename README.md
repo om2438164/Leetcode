@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/om2438164/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/om2438164/Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/om2438164/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/om2438164/Leetcode/tree/master/0189-rotate-array) |
 | [0567-permutation-in-string](https://github.com/om2438164/Leetcode/tree/master/0567-permutation-in-string) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/om2438164/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2481-strictly-palindromic-number](https://github.com/om2438164/Leetcode/tree/master/2481-strictly-palindromic-number) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/om2438164/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/om2438164/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/om2438164/Leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/om2438164/Leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/om2438164/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/om2438164/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0303-range-sum-query-immutable](https://github.com/om2438164/Leetcode/tree/master/0303-range-sum-query-immutable) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/om2438164/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/om2438164/Leetcode/tree/master/0189-rotate-array) |
 | [0371-sum-of-two-integers](https://github.com/om2438164/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [2481-strictly-palindromic-number](https://github.com/om2438164/Leetcode/tree/master/2481-strictly-palindromic-number) |
 ## Sliding Window
