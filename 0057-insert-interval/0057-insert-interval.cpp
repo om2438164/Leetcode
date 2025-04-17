@@ -5,8 +5,8 @@ public:
         intervals.push_back({newInterval[0],newInterval[1]});
         
         sort(intervals.begin(),intervals.end());
-        vector<vector<int>>ans;
 
+        vector<vector<int>>ans;
         for(auto it:intervals){
             if(ans.empty() || it[0]>ans.back()[1]){
                 ans.push_back(it);
