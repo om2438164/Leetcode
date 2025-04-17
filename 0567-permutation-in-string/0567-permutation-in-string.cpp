@@ -26,15 +26,15 @@ public:
             map2[s2[j]]++;
             j++;
         }
+        if(map1==map2) return true;
         int i=0;
         while(j<s2.size()){
-            if(map1==map2) return true;
             map2[s2[j]]++;
             map2[s2[i]]--;
             if(map2[s2[i]]==0) map2.erase(s2[i]);
+            if(map1==map2) return true;
             i++,j++;
         }
-        if(map1==map2) return true;
         return false;
     }
 };
