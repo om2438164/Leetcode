@@ -7,9 +7,7 @@ public:
         });
         int count=0;
         for(auto it:intervals){
-            int start=it[0];
-            int end=it[1];
-            if(ans.empty() || start>=ans.back()[1]){
+            if(ans.empty() || it[0]>=ans.back()[1]){
                 ans.push_back(it);
                 
             }else{
