@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/om2438164/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/om2438164/Leetcode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/om2438164/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [1500-count-largest-group](https://github.com/om2438164/Leetcode/tree/master/1500-count-largest-group) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/om2438164/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/om2438164/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2594-count-pairs-of-similar-strings](https://github.com/om2438164/Leetcode/tree/master/2594-count-pairs-of-similar-strings) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/om2438164/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/om2438164/Leetcode/tree/master/0189-rotate-array) |
 | [0371-sum-of-two-integers](https://github.com/om2438164/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [1500-count-largest-group](https://github.com/om2438164/Leetcode/tree/master/1500-count-largest-group) |
 | [2481-strictly-palindromic-number](https://github.com/om2438164/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2998-count-symmetric-integers](https://github.com/om2438164/Leetcode/tree/master/2998-count-symmetric-integers) |
 ## Sliding Window
