@@ -1,33 +1,27 @@
 class Solution {
 public:
     string reverseWords(string s) {
-        // Step 1: Reverse the whole string
-        reverse(s.begin(), s.end());
+        int i = s.size() - 1;
+        string ans = "";
 
-        int n = s.size();
-        int i = 0;
-        string result = "";
+        while (i >= 0) {
+            // Skip trailing spaces
+            while (i >= 0 && s[i] == ' ') i--;
 
-        while (i < n) {
-            // Skip spaces
-            while (i < n && s[i] == ' ') i++;
+            if (i < 0) break;
 
-            if (i >= n) break;
+            string temp = "";
+            // Build the word backwards
+            while (i >= 0 && s[i] != ' ') {
+                temp += s[i];
+                i--;
+            }
+            reverse(temp.begin(), temp.end());
 
-            int j = i;
-            while (j < n && s[j] != ' ') j++;
-
-            // Now s[i..j-1] is a word
-            string word = s.substr(i, j - i);
-            reverse(word.begin(), word.end());
-
-            // Add a space if result already has content
-            if (!result.empty()) result += " ";
-            result += word;
-
-            i = j;
+            if (!ans.empty()) ans += " ";
+            ans += temp;
         }
 
-        return result;
+        return ans;
     }
 };
