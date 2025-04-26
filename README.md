@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/om2438164/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/om2438164/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/om2438164/Leetcode/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/om2438164/Leetcode/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/om2438164/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/om2438164/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/om2438164/Leetcode/tree/master/0567-permutation-in-string) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/om2438164/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/om2438164/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/om2438164/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/om2438164/Leetcode/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/om2438164/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/om2438164/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/om2438164/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/om2438164/Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/om2438164/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/om2438164/Leetcode/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/om2438164/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/om2438164/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1848-sum-of-unique-elements](https://github.com/om2438164/Leetcode/tree/master/1848-sum-of-unique-elements) |
