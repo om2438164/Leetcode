@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/om2438164/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/om2438164/Leetcode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/om2438164/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0778-reorganize-string](https://github.com/om2438164/Leetcode/tree/master/0778-reorganize-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/om2438164/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/om2438164/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2470-removing-stars-from-a-string](https://github.com/om2438164/Leetcode/tree/master/2470-removing-stars-from-a-string) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/om2438164/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/om2438164/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/om2438164/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0778-reorganize-string](https://github.com/om2438164/Leetcode/tree/master/0778-reorganize-string) |
 | [0883-car-fleet](https://github.com/om2438164/Leetcode/tree/master/0883-car-fleet) |
 | [0917-boats-to-save-people](https://github.com/om2438164/Leetcode/tree/master/0917-boats-to-save-people) |
 | [1184-car-pooling](https://github.com/om2438164/Leetcode/tree/master/1184-car-pooling) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/om2438164/Leetcode/tree/master/0011-container-with-most-water) |
 | [0435-non-overlapping-intervals](https://github.com/om2438164/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0680-valid-palindrome-ii](https://github.com/om2438164/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0778-reorganize-string](https://github.com/om2438164/Leetcode/tree/master/0778-reorganize-string) |
 | [0917-boats-to-save-people](https://github.com/om2438164/Leetcode/tree/master/0917-boats-to-save-people) |
 ## Divide and Conquer
 |  |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/om2438164/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/om2438164/Leetcode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/om2438164/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0778-reorganize-string](https://github.com/om2438164/Leetcode/tree/master/0778-reorganize-string) |
 | [0816-design-hashset](https://github.com/om2438164/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/om2438164/Leetcode/tree/master/0817-design-hashmap) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/om2438164/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -275,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/om2438164/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/om2438164/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/om2438164/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0778-reorganize-string](https://github.com/om2438164/Leetcode/tree/master/0778-reorganize-string) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/om2438164/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1127-last-stone-weight](https://github.com/om2438164/Leetcode/tree/master/1127-last-stone-weight) |
 | [1184-car-pooling](https://github.com/om2438164/Leetcode/tree/master/1184-car-pooling) |
@@ -291,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/om2438164/Leetcode/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/om2438164/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/om2438164/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0778-reorganize-string](https://github.com/om2438164/Leetcode/tree/master/0778-reorganize-string) |
 | [1848-sum-of-unique-elements](https://github.com/om2438164/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2594-count-pairs-of-similar-strings](https://github.com/om2438164/Leetcode/tree/master/2594-count-pairs-of-similar-strings) |
 ## Bit Manipulation
