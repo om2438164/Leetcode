@@ -18,27 +18,28 @@ public:
         // return ans;
 
 
- 
-        vector<vector<int>> result;
-        if (nums1.empty() || nums2.empty() || k == 0) return result;
-
-        // Min heap: {sum, i, j}
-        priority_queue<vector<int>, vector<vector<int>>, greater<>> minHeap;
-
-        for (int i = 0; i < nums1.size() && i < k; i++) {
-            minHeap.push({nums1[i] + nums2[0], i, 0});
-        }
-
-        while (!minHeap.empty() && result.size() < k) {
-            auto top = minHeap.top(); minHeap.pop();
-            int i = top[1], j = top[2];
-            result.push_back({nums1[i], nums2[j]});
-            if (j + 1 < nums2.size()) {
-                minHeap.push({nums1[i] + nums2[j + 1], i, j + 1});
+        priority_queue<pair<int,pair<int,int>>> pq;  // default: the greatest comes top
+        for(int i=0;i<nums1.size();i++) {
+            for(int j=0;j<nums2.size();j++) {
+                int sum=nums1[i]+nums2[j];
+                if (pq.size()<k) {
+                    pq.push({sum,{nums1[i],nums2[j]}});
+                }
+                else if (sum<pq.top().first) {
+                    pq.pop();
+                    pq.push({sum,{nums1[i],nums2[j]}});
+                } else {
+                    break;  // save time! since we don't need to traverse the rest of vector 2
+                }
             }
         }
-
-        return result;
+        vector<vector<int>> ans;
+        while(!pq.empty()) {
+            ans.push_back({pq.top().second.first, pq.top().second.second});
+            pq.pop();
+        }
+        reverse(ans.begin(),ans.end());
+        return ans;
     }
 };
 
