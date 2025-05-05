@@ -1,5 +1,7 @@
 class TimeMap {
 public:
+    //brute force solution
+
     // unordered_map<string,string>map;
     // TimeMap() {
 
@@ -24,6 +26,8 @@ public:
     //     }
     //     return "";
 
+
+    // optimized solution 
     unordered_map<string, string> map;
     unordered_map<string,vector<int>>map2;
     TimeMap() {
