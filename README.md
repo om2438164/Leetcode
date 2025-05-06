@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/om2438164/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/om2438164/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1962-single-threaded-cpu](https://github.com/om2438164/Leetcode/tree/master/1962-single-threaded-cpu) |
+| [2048-build-array-from-permutation](https://github.com/om2438164/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/om2438164/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/om2438164/Leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2594-count-pairs-of-similar-strings](https://github.com/om2438164/Leetcode/tree/master/2594-count-pairs-of-similar-strings) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/om2438164/Leetcode/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/om2438164/Leetcode/tree/master/0735-asteroid-collision) |
 | [1184-car-pooling](https://github.com/om2438164/Leetcode/tree/master/1184-car-pooling) |
+| [2048-build-array-from-permutation](https://github.com/om2438164/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/om2438164/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2470-removing-stars-from-a-string](https://github.com/om2438164/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Data Stream
