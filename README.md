@@ -425,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/om2438164/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0816-design-hashset](https://github.com/om2438164/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/om2438164/Leetcode/tree/master/0817-design-hashmap) |
 ## Interactive
@@ -447,4 +448,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/om2438164/Leetcode/tree/master/0948-sort-an-array) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/om2438164/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
