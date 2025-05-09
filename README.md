@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2594-count-pairs-of-similar-strings](https://github.com/om2438164/Leetcode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/om2438164/Leetcode/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [3379-score-of-a-string](https://github.com/om2438164/Leetcode/tree/master/3379-score-of-a-string) |
+| [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/om2438164/Leetcode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 ## Array
 |  |
 | ------- |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/om2438164/Leetcode/tree/master/1500-count-largest-group) |
 | [2481-strictly-palindromic-number](https://github.com/om2438164/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2998-count-symmetric-integers](https://github.com/om2438164/Leetcode/tree/master/2998-count-symmetric-integers) |
+| [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/om2438164/Leetcode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 ## Sliding Window
 |  |
 | ------- |
