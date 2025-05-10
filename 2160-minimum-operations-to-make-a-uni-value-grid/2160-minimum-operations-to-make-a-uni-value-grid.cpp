@@ -15,15 +15,12 @@ public:
         }
 
         int mod = all[0] % x;
-        for (int num : all) {
-            if (num % x != mod) return -1;
-        }
-
         sort(all.begin(), all.end());
         int median = all[all.size() / 2];
         int operations = 0;
 
         for (int num : all) {
+            if (num % x != mod) return -1;
             operations += abs(num - median) / x;
         }
 
