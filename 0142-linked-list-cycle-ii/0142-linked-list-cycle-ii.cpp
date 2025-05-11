@@ -9,26 +9,46 @@
 class Solution {
 public:
     ListNode *detectCycle(ListNode *head) {
-        unordered_map<ListNode*,int>map;
-        // ListNode* fast=head;
-        // ListNode* slow=head;
-
-        // while(fast!=NULL){
-        //     fast=fast->next;
-        //     if(fast!=NULL){
-        //         fast=fast->next;
-        //         slow=slow->next;
+        
+        //with extra space hashmap
+        // ListNode* temp=head;
+        // while(temp!=NULL){
+        //     if(map.count(temp)){
+        //         return temp;
         //     }
+        //     map[temp]++;
+        //     temp=temp->next;
         // }
+        // return NULL;
 
-        ListNode* temp=head;
-        while(temp!=NULL){
-            if(map.count(temp)){
-                return temp;
+
+        // using slow and faster pointer
+        ListNode* fast=head;
+        ListNode* slow=head;
+        bool check=false;
+        while(fast!=NULL){
+            fast=fast->next;
+            if(fast!=NULL){
+                fast=fast->next;
+                slow=slow->next;
             }
-            map[temp]++;
-            temp=temp->next;
+            if(slow==fast) {
+                check=true;
+                break;
+            }
         }
-        return NULL;
+
+        if(!check) return NULL;
+
+        slow=head;
+
+        while(slow!=fast){
+            slow=slow->next;
+            fast=fast->next;
+        }
+        return slow;
+
+
+        
     }
 };
