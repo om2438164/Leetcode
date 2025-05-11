@@ -30,13 +30,10 @@ public:
             if(fast!=NULL){
                 fast=fast->next;
                 slow=slow->next;
+                if(fast==slow) return true;
             }
-            if(fast==slow) return true;
+            
         }
-
         return false;
-
-
-        
     }
 };
