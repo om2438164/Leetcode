@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/om2438164/Leetcode/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/om2438164/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/om2438164/Leetcode/tree/master/0817-design-hashmap) |
+| [0876-hand-of-straights](https://github.com/om2438164/Leetcode/tree/master/0876-hand-of-straights) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/om2438164/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0883-car-fleet](https://github.com/om2438164/Leetcode/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/om2438164/Leetcode/tree/master/0907-koko-eating-bananas) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/om2438164/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/om2438164/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0778-reorganize-string](https://github.com/om2438164/Leetcode/tree/master/0778-reorganize-string) |
+| [0876-hand-of-straights](https://github.com/om2438164/Leetcode/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/om2438164/Leetcode/tree/master/0883-car-fleet) |
 | [0917-boats-to-save-people](https://github.com/om2438164/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/om2438164/Leetcode/tree/master/0948-sort-an-array) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/om2438164/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0680-valid-palindrome-ii](https://github.com/om2438164/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0778-reorganize-string](https://github.com/om2438164/Leetcode/tree/master/0778-reorganize-string) |
+| [0876-hand-of-straights](https://github.com/om2438164/Leetcode/tree/master/0876-hand-of-straights) |
 | [0917-boats-to-save-people](https://github.com/om2438164/Leetcode/tree/master/0917-boats-to-save-people) |
 ## Divide and Conquer
 |  |
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/om2438164/Leetcode/tree/master/0778-reorganize-string) |
 | [0816-design-hashset](https://github.com/om2438164/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/om2438164/Leetcode/tree/master/0817-design-hashmap) |
+| [0876-hand-of-straights](https://github.com/om2438164/Leetcode/tree/master/0876-hand-of-straights) |
 | [0966-binary-subarrays-with-sum](https://github.com/om2438164/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1023-time-based-key-value-store](https://github.com/om2438164/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/om2438164/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
