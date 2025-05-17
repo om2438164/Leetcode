@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/om2438164/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/om2438164/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/om2438164/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/om2438164/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1656-count-good-triplets](https://github.com/om2438164/Leetcode/tree/master/1656-count-good-triplets) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/om2438164/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/om2438164/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/om2438164/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/om2438164/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/om2438164/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/om2438164/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/om2438164/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2751-sliding-subarray-beauty](https://github.com/om2438164/Leetcode/tree/master/2751-sliding-subarray-beauty) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/om2438164/Leetcode/tree/master/2786-find-the-longest-semi-repetitive-substring) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/om2438164/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1184-car-pooling](https://github.com/om2438164/Leetcode/tree/master/1184-car-pooling) |
 | [1370-count-number-of-nice-subarrays](https://github.com/om2438164/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/om2438164/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
