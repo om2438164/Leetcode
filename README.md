@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/om2438164/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0778-reorganize-string](https://github.com/om2438164/Leetcode/tree/master/0778-reorganize-string) |
 | [0812-rotate-string](https://github.com/om2438164/Leetcode/tree/master/0812-rotate-string) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/om2438164/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1023-time-based-key-value-store](https://github.com/om2438164/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/om2438164/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/om2438164/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/om2438164/Leetcode/tree/master/0778-reorganize-string) |
 | [0876-hand-of-straights](https://github.com/om2438164/Leetcode/tree/master/0876-hand-of-straights) |
 | [0917-boats-to-save-people](https://github.com/om2438164/Leetcode/tree/master/0917-boats-to-save-people) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/om2438164/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/om2438164/Leetcode/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/om2438164/Leetcode/tree/master/0883-car-fleet) |
 | [0937-online-stock-span](https://github.com/om2438164/Leetcode/tree/master/0937-online-stock-span) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/om2438164/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2470-removing-stars-from-a-string](https://github.com/om2438164/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Design
 |  |
