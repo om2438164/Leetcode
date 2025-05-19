@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0937-online-stock-span](https://github.com/om2438164/Leetcode/tree/master/0937-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/om2438164/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2470-removing-stars-from-a-string](https://github.com/om2438164/Leetcode/tree/master/2470-removing-stars-from-a-string) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/om2438164/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/om2438164/Leetcode/tree/master/1500-count-largest-group) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/om2438164/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2481-strictly-palindromic-number](https://github.com/om2438164/Leetcode/tree/master/2481-strictly-palindromic-number) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/om2438164/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2998-count-symmetric-integers](https://github.com/om2438164/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3321-type-of-triangle](https://github.com/om2438164/Leetcode/tree/master/3321-type-of-triangle) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/om2438164/Leetcode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
@@ -534,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/om2438164/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/om2438164/Leetcode/tree/master/0817-design-hashmap) |
 | [0908-middle-of-the-linked-list](https://github.com/om2438164/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/om2438164/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Interactive
 |  |
 | ------- |
