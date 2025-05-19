@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1962-single-threaded-cpu](https://github.com/om2438164/Leetcode/tree/master/1962-single-threaded-cpu) |
 | [2048-build-array-from-permutation](https://github.com/om2438164/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/om2438164/Leetcode/tree/master/2058-concatenation-of-array) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/om2438164/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/om2438164/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/om2438164/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/om2438164/Leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/om2438164/Leetcode/tree/master/0876-hand-of-straights) |
 | [0917-boats-to-save-people](https://github.com/om2438164/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/om2438164/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/om2438164/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/om2438164/Leetcode/tree/master/1127-last-stone-weight) |
 | [1184-car-pooling](https://github.com/om2438164/Leetcode/tree/master/1184-car-pooling) |
 | [1962-single-threaded-cpu](https://github.com/om2438164/Leetcode/tree/master/1962-single-threaded-cpu) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/om2438164/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 ## Bucket Sort
 |  |
 | ------- |
