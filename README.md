@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/om2438164/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/om2438164/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1539-diagonal-traverse-ii](https://github.com/om2438164/Leetcode/tree/master/1539-diagonal-traverse-ii) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/om2438164/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1656-count-good-triplets](https://github.com/om2438164/Leetcode/tree/master/1656-count-good-triplets) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/om2438164/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/om2438164/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-car-fleet](https://github.com/om2438164/Leetcode/tree/master/0883-car-fleet) |
 | [0937-online-stock-span](https://github.com/om2438164/Leetcode/tree/master/0937-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/om2438164/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/om2438164/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2470-removing-stars-from-a-string](https://github.com/om2438164/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/om2438164/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Design
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/om2438164/Leetcode/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/om2438164/Leetcode/tree/master/0883-car-fleet) |
 | [0937-online-stock-span](https://github.com/om2438164/Leetcode/tree/master/0937-online-stock-span) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/om2438164/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Math
 |  |
 | ------- |
