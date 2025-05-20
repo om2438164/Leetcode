@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/om2438164/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0435-non-overlapping-intervals](https://github.com/om2438164/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/om2438164/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/om2438164/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/om2438164/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/om2438164/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/om2438164/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/om2438164/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/om2438164/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/om2438164/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0498-diagonal-traverse](https://github.com/om2438164/Leetcode/tree/master/0498-diagonal-traverse) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/om2438164/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/om2438164/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Hash Table
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/om2438164/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/om2438164/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/om2438164/Leetcode/tree/master/0067-add-binary) |
+| [0498-diagonal-traverse](https://github.com/om2438164/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/om2438164/Leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/om2438164/Leetcode/tree/master/0735-asteroid-collision) |
 | [1184-car-pooling](https://github.com/om2438164/Leetcode/tree/master/1184-car-pooling) |
