@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/om2438164/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/om2438164/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/om2438164/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1539-diagonal-traverse-ii](https://github.com/om2438164/Leetcode/tree/master/1539-diagonal-traverse-ii) |
 | [1656-count-good-triplets](https://github.com/om2438164/Leetcode/tree/master/1656-count-good-triplets) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/om2438164/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/om2438164/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/om2438164/Leetcode/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/om2438164/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1184-car-pooling](https://github.com/om2438164/Leetcode/tree/master/1184-car-pooling) |
+| [1539-diagonal-traverse-ii](https://github.com/om2438164/Leetcode/tree/master/1539-diagonal-traverse-ii) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/om2438164/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/om2438164/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1962-single-threaded-cpu](https://github.com/om2438164/Leetcode/tree/master/1962-single-threaded-cpu) |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/om2438164/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/om2438164/Leetcode/tree/master/1127-last-stone-weight) |
 | [1184-car-pooling](https://github.com/om2438164/Leetcode/tree/master/1184-car-pooling) |
+| [1539-diagonal-traverse-ii](https://github.com/om2438164/Leetcode/tree/master/1539-diagonal-traverse-ii) |
 | [1962-single-threaded-cpu](https://github.com/om2438164/Leetcode/tree/master/1962-single-threaded-cpu) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/om2438164/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 ## Bucket Sort
