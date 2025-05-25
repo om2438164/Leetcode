@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/om2438164/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/om2438164/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1539-diagonal-traverse-ii](https://github.com/om2438164/Leetcode/tree/master/1539-diagonal-traverse-ii) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/om2438164/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/om2438164/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1656-count-good-triplets](https://github.com/om2438164/Leetcode/tree/master/1656-count-good-triplets) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/om2438164/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/om2438164/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/om2438164/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/om2438164/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/om2438164/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/om2438164/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2751-sliding-subarray-beauty](https://github.com/om2438164/Leetcode/tree/master/2751-sliding-subarray-beauty) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/om2438164/Leetcode/tree/master/2786-find-the-longest-semi-repetitive-substring) |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/om2438164/Leetcode/tree/master/1127-last-stone-weight) |
 | [1184-car-pooling](https://github.com/om2438164/Leetcode/tree/master/1184-car-pooling) |
 | [1539-diagonal-traverse-ii](https://github.com/om2438164/Leetcode/tree/master/1539-diagonal-traverse-ii) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/om2438164/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1962-single-threaded-cpu](https://github.com/om2438164/Leetcode/tree/master/1962-single-threaded-cpu) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/om2438164/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 ## Bucket Sort
@@ -535,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/om2438164/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/om2438164/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/om2438164/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Linked List
 |  |
 | ------- |
@@ -592,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/om2438164/Leetcode/tree/master/0729-my-calendar-i) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/om2438164/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## String Matching
 |  |
 | ------- |
@@ -601,4 +606,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1028-interval-list-intersections](https://github.com/om2438164/Leetcode/tree/master/1028-interval-list-intersections) |
+## Monotonic Queue
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/om2438164/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 <!---LeetCode Topics End-->
