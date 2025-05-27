@@ -375,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/om2438164/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/om2438164/Leetcode/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/om2438164/Leetcode/tree/master/0227-basic-calculator-ii) |
+| [0258-add-digits](https://github.com/om2438164/Leetcode/tree/master/0258-add-digits) |
 | [0371-sum-of-two-integers](https://github.com/om2438164/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [1014-k-closest-points-to-origin](https://github.com/om2438164/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1370-count-number-of-nice-subarrays](https://github.com/om2438164/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -509,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/om2438164/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/om2438164/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/om2438164/Leetcode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/om2438164/Leetcode/tree/master/0258-add-digits) |
 | [0498-diagonal-traverse](https://github.com/om2438164/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/om2438164/Leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/om2438164/Leetcode/tree/master/0735-asteroid-collision) |
@@ -620,4 +622,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/om2438164/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/om2438164/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
