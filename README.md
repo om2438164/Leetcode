@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-score-of-parentheses](https://github.com/om2438164/Leetcode/tree/master/0886-score-of-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/om2438164/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1023-time-based-key-value-store](https://github.com/om2438164/Leetcode/tree/master/1023-time-based-key-value-store) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/om2438164/Leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/om2438164/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/om2438164/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/om2438164/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-score-of-parentheses](https://github.com/om2438164/Leetcode/tree/master/0886-score-of-parentheses) |
 | [0937-online-stock-span](https://github.com/om2438164/Leetcode/tree/master/0937-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/om2438164/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/om2438164/Leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/om2438164/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2470-removing-stars-from-a-string](https://github.com/om2438164/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/om2438164/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
