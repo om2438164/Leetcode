@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/om2438164/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/om2438164/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1894-merge-strings-alternately](https://github.com/om2438164/Leetcode/tree/master/1894-merge-strings-alternately) |
+| [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/om2438164/Leetcode/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
 | [2470-removing-stars-from-a-string](https://github.com/om2438164/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2594-count-pairs-of-similar-strings](https://github.com/om2438164/Leetcode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/om2438164/Leetcode/tree/master/2786-find-the-longest-semi-repetitive-substring) |
