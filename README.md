@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/om2438164/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0658-find-k-closest-elements](https://github.com/om2438164/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/om2438164/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0874-backspace-string-compare](https://github.com/om2438164/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/om2438164/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/om2438164/Leetcode/tree/master/0917-boats-to-save-people) |
 | [1028-interval-list-intersections](https://github.com/om2438164/Leetcode/tree/master/1028-interval-list-intersections) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/om2438164/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0778-reorganize-string](https://github.com/om2438164/Leetcode/tree/master/0778-reorganize-string) |
 | [0812-rotate-string](https://github.com/om2438164/Leetcode/tree/master/0812-rotate-string) |
+| [0874-backspace-string-compare](https://github.com/om2438164/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0886-score-of-parentheses](https://github.com/om2438164/Leetcode/tree/master/0886-score-of-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/om2438164/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1023-time-based-key-value-store](https://github.com/om2438164/Leetcode/tree/master/1023-time-based-key-value-store) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/om2438164/Leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/om2438164/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/om2438164/Leetcode/tree/master/0739-daily-temperatures) |
+| [0874-backspace-string-compare](https://github.com/om2438164/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0883-car-fleet](https://github.com/om2438164/Leetcode/tree/master/0883-car-fleet) |
 | [0886-score-of-parentheses](https://github.com/om2438164/Leetcode/tree/master/0886-score-of-parentheses) |
 | [0937-online-stock-span](https://github.com/om2438164/Leetcode/tree/master/0937-online-stock-span) |
@@ -528,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/om2438164/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/om2438164/Leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/om2438164/Leetcode/tree/master/0735-asteroid-collision) |
+| [0874-backspace-string-compare](https://github.com/om2438164/Leetcode/tree/master/0874-backspace-string-compare) |
 | [1184-car-pooling](https://github.com/om2438164/Leetcode/tree/master/1184-car-pooling) |
 | [2048-build-array-from-permutation](https://github.com/om2438164/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/om2438164/Leetcode/tree/master/2058-concatenation-of-array) |
