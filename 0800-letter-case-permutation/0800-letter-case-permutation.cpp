@@ -1,18 +1,25 @@
 class Solution {
 public:
-    void solve(string s,string op,int i,vector<string>&ans){
+    void solve(string s,string &op,int i,vector<string>&ans){
         if(i>=s.size()){
             ans.push_back(op);
             return;
         }
 
         if(isdigit(s[i])){
-            solve(s,op+s[i],i+1,ans);
+            op+=s[i];
+            solve(s,op,i+1,ans);
+            op.pop_back();
+
         }else{
             char ch1=toupper(s[i]);
             char ch2=tolower(s[i]);
-            solve(s,op+ch1,i+1,ans);
-            solve(s,op+ch2,i+1,ans);
+            op+=ch1;
+            solve(s,op,i+1,ans);
+            op.pop_back();
+            op+=ch2;
+            solve(s,op,i+1,ans);
+            op.pop_back();
         }
 
     }
