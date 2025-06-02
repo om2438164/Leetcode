@@ -22,7 +22,6 @@ public:
     }
     vector<string> generateParenthesis(int n) {
         vector<string>ans;
-        int open=n,colse=n;
         string op="";
         solve(op,n,n,ans);
         return ans;
