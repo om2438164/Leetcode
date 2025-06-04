@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/om2438164/Leetcode/tree/master/0011-container-with-most-water) |
 | [0435-non-overlapping-intervals](https://github.com/om2438164/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/om2438164/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0670-maximum-swap](https://github.com/om2438164/Leetcode/tree/master/0670-maximum-swap) |
 | [0680-valid-palindrome-ii](https://github.com/om2438164/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0778-reorganize-string](https://github.com/om2438164/Leetcode/tree/master/0778-reorganize-string) |
 | [0876-hand-of-straights](https://github.com/om2438164/Leetcode/tree/master/0876-hand-of-straights) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/om2438164/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0258-add-digits](https://github.com/om2438164/Leetcode/tree/master/0258-add-digits) |
 | [0371-sum-of-two-integers](https://github.com/om2438164/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [0670-maximum-swap](https://github.com/om2438164/Leetcode/tree/master/0670-maximum-swap) |
 | [1014-k-closest-points-to-origin](https://github.com/om2438164/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1370-count-number-of-nice-subarrays](https://github.com/om2438164/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1500-count-largest-group](https://github.com/om2438164/Leetcode/tree/master/1500-count-largest-group) |
