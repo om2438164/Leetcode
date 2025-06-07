@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/om2438164/Leetcode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/om2438164/Leetcode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/om2438164/Leetcode/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/om2438164/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/om2438164/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/om2438164/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0227-basic-calculator-ii](https://github.com/om2438164/Leetcode/tree/master/0227-basic-calculator-ii) |
@@ -535,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/om2438164/Leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/om2438164/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/om2438164/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/om2438164/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/om2438164/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/om2438164/Leetcode/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/om2438164/Leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -685,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/om2438164/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/om2438164/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/om2438164/Leetcode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/om2438164/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/om2438164/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0800-letter-case-permutation](https://github.com/om2438164/Leetcode/tree/master/0800-letter-case-permutation) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/om2438164/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
