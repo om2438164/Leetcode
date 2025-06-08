@@ -530,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/om2438164/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0386-lexicographical-numbers](https://github.com/om2438164/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [2339-k-divisible-elements-subarrays](https://github.com/om2438164/Leetcode/tree/master/2339-k-divisible-elements-subarrays) |
 ## Dynamic Programming
 |  |
@@ -698,4 +699,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/om2438164/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Depth-First Search
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/om2438164/Leetcode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
