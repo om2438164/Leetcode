@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2339-k-divisible-elements-subarrays](https://github.com/om2438164/Leetcode/tree/master/2339-k-divisible-elements-subarrays) |
 | [2358-number-of-ways-to-split-array](https://github.com/om2438164/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2594-count-pairs-of-similar-strings](https://github.com/om2438164/Leetcode/tree/master/2594-count-pairs-of-similar-strings) |
+| [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/om2438164/Leetcode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2751-sliding-subarray-beauty](https://github.com/om2438164/Leetcode/tree/master/2751-sliding-subarray-beauty) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/om2438164/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3194-find-words-containing-character](https://github.com/om2438164/Leetcode/tree/master/3194-find-words-containing-character) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/om2438164/Leetcode/tree/master/0498-diagonal-traverse) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/om2438164/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/om2438164/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/om2438164/Leetcode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 ## Hash Table
 |  |
 | ------- |
@@ -584,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/om2438164/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/om2438164/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2470-removing-stars-from-a-string](https://github.com/om2438164/Leetcode/tree/master/2470-removing-stars-from-a-string) |
+| [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/om2438164/Leetcode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2886-faulty-keyboard](https://github.com/om2438164/Leetcode/tree/master/2886-faulty-keyboard) |
 ## Data Stream
 |  |
