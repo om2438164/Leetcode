@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-number-of-ways-to-split-array](https://github.com/om2438164/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2594-count-pairs-of-similar-strings](https://github.com/om2438164/Leetcode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/om2438164/Leetcode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/om2438164/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2751-sliding-subarray-beauty](https://github.com/om2438164/Leetcode/tree/master/2751-sliding-subarray-beauty) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/om2438164/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3194-find-words-containing-character](https://github.com/om2438164/Leetcode/tree/master/3194-find-words-containing-character) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/om2438164/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/om2438164/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/om2438164/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/om2438164/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/om2438164/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/om2438164/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/om2438164/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/om2438164/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
