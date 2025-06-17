@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/om2438164/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1547-destination-city](https://github.com/om2438164/Leetcode/tree/master/1547-destination-city) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/om2438164/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1777-determine-if-two-strings-are-close](https://github.com/om2438164/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/om2438164/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1894-merge-strings-alternately](https://github.com/om2438164/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/om2438164/Leetcode/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-diagonal-traverse-ii](https://github.com/om2438164/Leetcode/tree/master/1539-diagonal-traverse-ii) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/om2438164/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1752-arithmetic-subarrays](https://github.com/om2438164/Leetcode/tree/master/1752-arithmetic-subarrays) |
+| [1777-determine-if-two-strings-are-close](https://github.com/om2438164/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/om2438164/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1962-single-threaded-cpu](https://github.com/om2438164/Leetcode/tree/master/1962-single-threaded-cpu) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/om2438164/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-destination-city](https://github.com/om2438164/Leetcode/tree/master/1547-destination-city) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/om2438164/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1752-arithmetic-subarrays](https://github.com/om2438164/Leetcode/tree/master/1752-arithmetic-subarrays) |
+| [1777-determine-if-two-strings-are-close](https://github.com/om2438164/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/om2438164/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/om2438164/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/om2438164/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -525,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/om2438164/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0778-reorganize-string](https://github.com/om2438164/Leetcode/tree/master/0778-reorganize-string) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/om2438164/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1777-determine-if-two-strings-are-close](https://github.com/om2438164/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1848-sum-of-unique-elements](https://github.com/om2438164/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/om2438164/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2594-count-pairs-of-similar-strings](https://github.com/om2438164/Leetcode/tree/master/2594-count-pairs-of-similar-strings) |
