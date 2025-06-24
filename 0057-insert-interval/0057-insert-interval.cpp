@@ -21,7 +21,7 @@ public:
         vector<vector<int>> temp;
         vector<vector<int>> ans;
         int i = 0;
-        while (i < intervals.size() && intervals[i][0] <= newInterval[0] ) {
+        while (i < intervals.size() && intervals[i][0] <= newInterval[0]) {
             temp.push_back(intervals[i]);
             i++;
         }
