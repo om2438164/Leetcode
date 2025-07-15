@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2886-faulty-keyboard](https://github.com/om2438164/Leetcode/tree/master/2886-faulty-keyboard) |
 | [3194-find-words-containing-character](https://github.com/om2438164/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/om2438164/Leetcode/tree/master/3379-score-of-a-string) |
+| [3396-valid-word](https://github.com/om2438164/Leetcode/tree/master/3396-valid-word) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/om2438164/Leetcode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/om2438164/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3893-generate-tag-for-video-caption](https://github.com/om2438164/Leetcode/tree/master/3893-generate-tag-for-video-caption) |
