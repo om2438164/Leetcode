@@ -10,27 +10,29 @@
 class Solution {
 public:
     
-    bool preorder(TreeNode* node, vector<TreeNode*>& temp, TreeNode* k) {
-    if (node == NULL) return false;
+    void preorder(TreeNode* node, TreeNode* k, vector<TreeNode*>& path) {
+    if (node == nullptr) return;
 
-    temp.push_back(node);  // Add current node to path
+    path.push_back(node); // add current node to path
 
-    if (node == k) return true;  // \U0001f3af Found target, stop here
+    if (node == k) return; // found the target, stop adding more
 
-    // Check left and right, and short-circuit if found
-    if (preorder(node->left, temp, k) || preorder(node->right, temp, k))
-        return true;
+    preorder(node->left, k, path);
+    if (path.back() == k) return; // found in left subtree
 
-    temp.pop_back();  // ❌ Not found in this path, backtrack
-    return false;
+    preorder(node->right, k, path);
+    if (path.back() == k) return; // found in right subtree
+
+    path.pop_back(); // backtrack if not found in either subtree
 }
+
 
 
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
         vector<TreeNode*>p1;
         vector<TreeNode*>q1;
-        preorder(root, p1, p);
-        preorder(root, q1, q);
+        preorder(root, p, p1);
+        preorder(root, q, q1);
 
         int i=0,j=0;
         TreeNode* ans=NULL;
