@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-car-fleet](https://github.com/om2438164/Leetcode/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/om2438164/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/om2438164/Leetcode/tree/master/0917-boats-to-save-people) |
+| [0940-fruit-into-baskets](https://github.com/om2438164/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/om2438164/Leetcode/tree/master/0948-sort-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/om2438164/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1014-k-closest-points-to-origin](https://github.com/om2438164/Leetcode/tree/master/1014-k-closest-points-to-origin) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/om2438164/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/om2438164/Leetcode/tree/master/0817-design-hashmap) |
 | [0876-hand-of-straights](https://github.com/om2438164/Leetcode/tree/master/0876-hand-of-straights) |
+| [0940-fruit-into-baskets](https://github.com/om2438164/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/om2438164/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1023-time-based-key-value-store](https://github.com/om2438164/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/om2438164/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/om2438164/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/om2438164/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/om2438164/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0940-fruit-into-baskets](https://github.com/om2438164/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/om2438164/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/om2438164/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/om2438164/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
