@@ -11,14 +11,10 @@ public:
                 count++;
                 i++,j--;
             }else{
-                if(j-i==1){
-                    count+=2;
-                    break;
-                }
-                else{
+                
                     j--;
                     count++;
-                }   
+                
             }
 
         }
